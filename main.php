@@ -1,6 +1,15 @@
 <?php
-$color = "red";
-echo "My car is " . $color . "<br>";
-echo "My house is " . $color . "<br>";
-echo "My boat is " . $coLOR . "<br>";
+$name = "Rizza Mae Gonzales Pore";
+$age = "20";
+$school = "Global Recipcoral Colleges";
+$course = "BSIT";
+$subject = "WebSys";
+$student = "Yes";
+
+echo "Name" . $name . "<br>";
+echo "Age" . $age . "<br>";
+echo "School" . $school . "<br>";
+echo "Course" . $course . "<br>";
+echo "Subject" . $subject . "<br>";
+echo "Student" . $student . "<br>";
 ?>
